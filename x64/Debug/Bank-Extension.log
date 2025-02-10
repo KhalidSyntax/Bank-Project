@@ -1,0 +1,5 @@
+﻿  Bank-Extension.cpp
+C:\Users\d3a6r\source\repos\Bank-Extension\Bank-Extension\Bank-Extension.cpp(32,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\d3a6r\source\repos\Bank-Extension\Bank-Extension\Bank-Extension.cpp(369,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\d3a6r\source\repos\Bank-Extension\Bank-Extension\Bank-Extension.cpp(404,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Bank-Extension.vcxproj -> C:\Users\d3a6r\source\repos\Bank-Extension\x64\Debug\Bank-Extension.exe
